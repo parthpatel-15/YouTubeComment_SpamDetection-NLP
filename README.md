@@ -26,4 +26,8 @@ Prints the confusion matrix and accuracy of the model.
 Generates 6 new comments (4 non-spam and 2 spam).
 Passes the comments through the classifier and prints the predicted results.
 
+# output :
+<img width="500" alt="Screenshot 2023-11-15 at 4 19 25 PM" src="https://github.com/parthpatel-15/YouTubeComment_SpamDetection-NLP/assets/79576096/460ee9af-b184-4f9b-9509-44bd4feb0de4">
+
+
 
